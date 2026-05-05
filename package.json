@@ -1,0 +1,6 @@
+{
+  "name": "@test/root",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": ["web-app"]
+}
